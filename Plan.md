@@ -1,4 +1,4 @@
-# Development Plan for Transgender Resource App
+# Development Plan for Rainbow Reach App
 
 ## **Day 1: Project Setup**
 
@@ -13,7 +13,7 @@
 - Install the Flutter SDK and ensure it works with Android Studio/Xcode.
 - Initialize a new Flutter project using:
   ```bash
-  flutter create transgender_resource_app
+  flutter create rainbow_reach_app
   ```
 - Install dependencies:
   - State Management: `provider` or `riverpod`
